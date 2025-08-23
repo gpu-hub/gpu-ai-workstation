@@ -29,6 +29,8 @@ Open source DIY AI computing platform: Build a powerful RTX 3090 GPU rig under �
   - [装机教程 3D演示](https://www.bilibili.com/video/BV1BG4y137mG)
   - [How to build a PC - Complete Guide](https://www.youtube.com/watch?v=BL4DCEp7blY&t=3766s)
 
-### 4. University Access (Optional)
+### 4. Cloud Computing 
+- [ChatGPT AI Cloud Computing Advice](https://chatgpt.com/share/68a9b866-7fe8-800f-a0e2-274c5236e4e7) - Compare cloud vs local setup costs and benefits
 - For university students: Check [SEU server setup](seu-server.md) for additional computing resources
+
 
